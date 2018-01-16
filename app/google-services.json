@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "852566653310",
+    "firebase_url": "https://fir-login-d6dda.firebaseio.com",
+    "project_id": "fir-login-d6dda",
+    "storage_bucket": "fir-login-d6dda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852566653310:android:317e4c6bbac24a61",
+        "android_client_info": {
+          "package_name": "com.pace.youngtechy.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852566653310-e742di2380p0ck14189bvjfbg8oo3vn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUzBV2fR_dNhOVQ9MRQG6KmUSb45OPQpc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
